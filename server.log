@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-03-28T21:41:02.525504700Z</date>
+  <millis>1711662062525</millis>
+  <nanos>504700</nanos>
+  <sequence>0</sequence>
+  <logger>requests</logger>
+  <level>INFO</level>
+  <class>udp.UDPSunucu</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Adres:/127.0.0.1</message>
+</record>
+<record>
+  <date>2024-03-28T21:41:35.255287200Z</date>
+  <millis>1711662095255</millis>
+  <nanos>287200</nanos>
+  <sequence>1</sequence>
+  <logger>requests</logger>
+  <level>INFO</level>
+  <class>udp.UDPSunucu</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Adres:/127.0.0.1</message>
+</record>
+<record>
+  <date>2024-03-28T21:41:37.031273300Z</date>
+  <millis>1711662097031</millis>
+  <nanos>273300</nanos>
+  <sequence>2</sequence>
+  <logger>requests</logger>
+  <level>INFO</level>
+  <class>udp.UDPSunucu</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Adres:/127.0.0.1</message>
+</record>

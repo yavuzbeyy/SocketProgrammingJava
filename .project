@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TCP</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/udp/UDPIstemci.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/A%C4%9F%20Programlama/2-UDP%20Soket%20Uygulama/2-UDP%20Soket%20Uygulama/UDPIstemci.java</locationURI>
+		</link>
+		<link>
+			<name>src/udp/UDPSunucu.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/A%C4%9F%20Programlama/2-UDP%20Soket%20Uygulama/2-UDP%20Soket%20Uygulama/UDPSunucu.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
